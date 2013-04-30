@@ -29,3 +29,5 @@ D'autre part, cette librairie intègre une fonction d'analyse de chaine reçue s
 
 * servosSync(xxx,xxx, xxx, xxx, xxx) 
 * servosSyncR(xxx,xxx, xxx, xxx, xxx) 
+
+La documentation de cette librairie est ici : http://www.mon-club-elec.fr/pmwiki_reference_lib_arduino_perso/pmwiki.php?n=Main.UtilsServo
